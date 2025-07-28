@@ -158,3 +158,35 @@ h2 {
   color: #1F2937;
   margin: 0;
 }
+
+.cta-container {
+  padding: 80px 0;
+}
+
+.cta-block {
+  background-color: #3882F6;
+  color: #E5E7EB;
+  width: 70%;
+  margin: 0 auto;
+  padding: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border-radius: 12px;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.cta-text .action-text {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.cta-text p {
+  margin: 0;
+}
+
+.cta-btn {
+  font-weight: bold;
+  border: 2px solid white;
+}
