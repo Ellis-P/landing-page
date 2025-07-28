@@ -137,3 +137,24 @@ h2 {
   font-size: 18px;
   color: #6d6d6d;
 }
+
+.quote-container {
+  background-color: #E5E7EB;
+  padding: 80px 225px;
+}
+
+.quote {
+  font-size: 36px;
+  font-weight: lighter;
+  color: #1F2937;
+  font-style: italic;
+  margin-bottom: 12px;
+}
+
+.quote-name {
+  text-align: end;
+  font-size: 24px;
+  font-weight: bold;
+  color: #1F2937;
+  margin: 0;
+}
